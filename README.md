@@ -1,70 +1,133 @@
+<div align="center">
+
 # 👋 Salut, moi c’est Paul Viandier
 
-Développeur **Frontend / Intégrateur web** en formation, avec une forte appétence pour la **qualité**, la **sécurité** et les **bonnes pratiques**.
+### Développeur **Frontend / Intégrateur Web** en formation  
+🎯 Objectif : devenir **Full-Stack**
 
-Je construis des interfaces modernes, accessibles et performantes, et je travaille activement à évoluer vers un profil **Full-Stack**.
+Je conçois des interfaces modernes, accessibles et performantes,  
+avec une attention particulière portée à la **qualité**, la **structure** et les **bonnes pratiques**.
 
----
-
-## 🎯 Ce que je fais aujourd’hui
-
-- 🧩 Intégration web (HTML, CSS, responsive, accessibilité)
-- ⚛️ Frontend moderne avec React & Next.js
-- 🎨 UI propre et maintenable (Tailwind CSS, composants)
-- 🌍 Internationalisation (FR / EN)
-- ⚡ Performance, SEO et bonnes pratiques frontend
+</div>
 
 ---
 
-## 🛠️ Stack actuelle
+<div align="center">
 
-- **Frontend** : HTML, CSS, JavaScript, TypeScript  
-- **Frameworks** : React, Next.js  
-- **Styling** : Tailwind CSS  
-- **UI** : Radix UI, shadcn/ui  
-- **Tooling** : Git, pnpm, Docker (bases)
+## 🧩 Frontend & Intégration
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+
+</div>
+
+- Intégration responsive & accessible  
+- React & Next.js (App Router, SEO, routing)  
+- TypeScript lisible et typé proprement  
+- UI modernes avec Tailwind CSS  
+- Performance, UX et bonnes pratiques frontend  
+
+---
+
+<div align="center">
+
+## 🧠 En apprentissage — Objectif Full-Stack
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,prisma,docker" />
+
+</div>
+
+- Routes serveur & APIs (Node.js / Next.js)
+- Bases de données relationnelles (PostgreSQL)
+- ORM & schéma (Prisma)
+- Cache & state serveur (Redis)
+- Sécurité web (bases : validation, headers)
+- Conteneurisation & déploiement (Docker – fondamentaux)
 
 ---
 
-## 📚 En cours d’apprentissage (objectif Full-Stack)
+<div align="center">
 
-- 🔌 APIs (Node.js, routes serveur Next.js)
-- 🗄️ Bases de données (PostgreSQL, Prisma)
-- 🧠 Architecture applicative
-- 🔐 Sécurité web (validation, headers, bonnes pratiques)
+## 🛠️ Outils & environnement
+
+<img src="https://skillicons.dev/icons?i=git,github,pnpm,vscode,linux,docker" />
+
+</div>
+
+- Git & GitHub (workflow propre)
+- pnpm
+- Docker (usage et compréhension des bases)
+- VS Code
+- Environnement Linux / macOS
 
 ---
+
+<div align="center">
 
 ## 📌 Projet principal
 
 ### 🧑‍💻 Portfolio personnel
+
+</div>
+
 Portfolio moderne développé avec **Next.js**, **TypeScript** et **Tailwind CSS**.
 
-- SEO et performance
-- Sécurité de base côté frontend
-- Support multilingue
-- Déploiement Docker (apprentissage)
+✨ Fonctionnalités clés :
+- Internationalisation (FR / EN)
+- SEO avancé (metadata, sitemap, structured data)
+- Sécurité frontend (validation, headers)
+- Performance & UX
+- Déploiement Docker
 
-👉 Code source visible (licence propriétaire)
+<div align="center">
+
+### 🧩 Stack utilisée sur ce projet
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,postgres,redis,prisma,docker" />
+
+</div>
+
+🔒 Code source visible — **licence propriétaire**  
+❌ Usage commercial interdit sans autorisation
+
+👉 [Voir le repository](https://github.com/5061756c2e56/portfolio)
 
 ---
+
+<div align="center">
 
 ## 🧠 Philosophie
 
-> Apprendre proprement, comprendre ce que je fais, et construire sur des bases solides.
+</div>
 
-- Pas de copier-coller aveugle
-- Pas de dépendances inutiles
-- Amélioration continue
+> Comprendre ce que je fais,  
+> écrire du code propre,  
+> et progresser sur des bases solides.
+
+- Pas de copier-coller aveugle  
+- Pas de magie inutile  
+- Amélioration continue  
 
 ---
+
+<div align="center">
 
 ## 📫 Me contacter
 
-- 📧 Email : [contact@paulviandier.com](mailto:contact@paulviandier.com)
-- 💼 LinkedIn : https://www.linkedin.com/in/paul-viandier-648837397
-- 🐙 GitHub : https://github.com/5061756c2e56
+</div>
+
+<div align="center">
+
+📧 **Email** : [contact@paulviandier.com](mailto:contact@paulviandier.com)  
+💼 **LinkedIn** : https://www.linkedin.com/in/paul-viandier-648837397  
+🐙 **GitHub** : https://github.com/5061756c2e56  
+
+</div>
 
 ---
 
-⭐️ En formation aujourd’hui, motivé pour évoluer vers le **Full-Stack** demain.
+<div align="center">
+
+⭐️ Frontend aujourd’hui — Full-Stack demain  
+Merci de passer sur mon profil !
+
+</div>
