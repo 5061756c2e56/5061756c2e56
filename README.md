@@ -86,7 +86,7 @@ Développeur frontend passionné par la **qualité du code** et les **bonnes pra
 Application web full-stack développée avec les technologies modernes pour présenter mon travail et mes compétences.
 
 **Technologies utilisées**
-- **Frontend** : Next.js 14, React 18, TypeScript, Tailwind CSS
+- **Frontend** : Next.js, React, TypeScript, Tailwind CSS
 - **Backend** : Next.js API Routes, PostgreSQL, Prisma ORM, Redis
 - **DevOps** : Docker, conteneurisation multi-stage
 - **Fonctionnalités** : i18n (FR/EN), SEO avancé, sécurité renforcée
